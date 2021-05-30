@@ -1,0 +1,11 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDruIQ3NPaMU_tzPxMMiDngMJUCSQfzg_8",
+  authDomain: "arka-c8f00.firebaseapp.com",
+  databaseURL: "https://arka-c8f00-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "arka-c8f00",
+  storageBucket: "arka-c8f00.appspot.com",
+  messagingSenderId: "223745466106",
+  appId: "1:223745466106:web:4d3a7e37a630fd7133f343",
+  measurementId: "G-WTEWZNM126"
+};
